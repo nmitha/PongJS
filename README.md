@@ -1,6 +1,6 @@
 # PongJS
 
-Don't judge me too harshly on this code, it was basically my first time writing JS beyond basic jQuery stuff.
+Don't judge me too harshly on this code, it was basically my first time writing JS beyond basic jQuery stuff.  It was also my first time developing a game.
 
 You play yourself at pong and try to stay alive as long as you can.  Use the 'W' and 'S' keys to control one paddle and up/down for the other paddle.
 
